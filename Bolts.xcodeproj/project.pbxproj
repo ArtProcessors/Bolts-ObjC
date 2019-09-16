@@ -979,10 +979,11 @@
 			};
 			buildConfigurationList = 8E9C3CE417DE9DE000427E62 /* Build configuration list for PBXProject "Bolts" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				Base,
 			);
 			mainGroup = 8E9C3CE017DE9DE000427E62;
 			productRefGroup = 8E9C3CEA17DE9DE000427E62 /* Products */;
