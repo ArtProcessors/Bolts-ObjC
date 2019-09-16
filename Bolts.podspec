@@ -23,12 +23,4 @@ Pod::Spec.new do |s|
     ss.source_files = 'Bolts/Common/*.[hm]'
     ss.public_header_files = 'Bolts/Common/*.h'
   end
-
-  s.subspec 'AppLinks' do |ss|
-    ss.ios.deployment_target = '8.0'
-    ss.dependency 'Bolts/Tasks'
-
-    ss.ios.source_files = 'Bolts/iOS/**/*.[hm]'
-    ss.ios.public_header_files = 'Bolts/iOS/*.h'
-  end
 end
