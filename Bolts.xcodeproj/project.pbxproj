@@ -41,31 +41,11 @@
 		8103FA6B19900A84000BAE3F /* BFTask.m in Sources */ = {isa = PBXBuildFile; fileRef = 8103FA5119900A84000BAE3F /* BFTask.m */; };
 		8103FA6D19900A84000BAE3F /* BFTaskCompletionSource.m in Sources */ = {isa = PBXBuildFile; fileRef = 8103FA5319900A84000BAE3F /* BFTaskCompletionSource.m */; };
 		8103FA6F19900A84000BAE3F /* Bolts.m in Sources */ = {isa = PBXBuildFile; fileRef = 8103FA5519900A84000BAE3F /* Bolts.m */; };
-		8160B82C1DE6277200C6E285 /* BFGeneric.h in Headers */ = {isa = PBXBuildFile; fileRef = 8160B82B1DE6277200C6E285 /* BFGeneric.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8160B82D1DE6277200C6E285 /* BFGeneric.h in Headers */ = {isa = PBXBuildFile; fileRef = 8160B82B1DE6277200C6E285 /* BFGeneric.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8160B82E1DE6277200C6E285 /* BFGeneric.h in Headers */ = {isa = PBXBuildFile; fileRef = 8160B82B1DE6277200C6E285 /* BFGeneric.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		8160B82F1DE6277200C6E285 /* BFGeneric.h in Headers */ = {isa = PBXBuildFile; fileRef = 8160B82B1DE6277200C6E285 /* BFGeneric.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8160B8301DE6277200C6E285 /* BFGeneric.h in Headers */ = {isa = PBXBuildFile; fileRef = 8160B82B1DE6277200C6E285 /* BFGeneric.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		8160B8311DE6277200C6E285 /* BFGeneric.h in Headers */ = {isa = PBXBuildFile; fileRef = 8160B82B1DE6277200C6E285 /* BFGeneric.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8160B8321DE6277200C6E285 /* BFGeneric.h in Headers */ = {isa = PBXBuildFile; fileRef = 8160B82B1DE6277200C6E285 /* BFGeneric.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		8178F9861BB0F87700AD289D /* BFTaskCompletionSource.m in Sources */ = {isa = PBXBuildFile; fileRef = 8103FA5319900A84000BAE3F /* BFTaskCompletionSource.m */; };
-		8178F9871BB0F87700AD289D /* BFTask.m in Sources */ = {isa = PBXBuildFile; fileRef = 8103FA5119900A84000BAE3F /* BFTask.m */; };
-		8178F9881BB0F87700AD289D /* Bolts.m in Sources */ = {isa = PBXBuildFile; fileRef = 8103FA5519900A84000BAE3F /* Bolts.m */; };
-		8178F9891BB0F87700AD289D /* BFCancellationTokenRegistration.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CA39C911ADE715400DD78CC /* BFCancellationTokenRegistration.m */; };
-		8178F98A1BB0F87700AD289D /* BFCancellationTokenSource.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C60AEC21ACF093D00747DD7 /* BFCancellationTokenSource.m */; };
-		8178F98B1BB0F87700AD289D /* BFExecutor.m in Sources */ = {isa = PBXBuildFile; fileRef = 8103FA4F19900A84000BAE3F /* BFExecutor.m */; };
-		8178F98C1BB0F87700AD289D /* BFCancellationToken.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C60AEBE1ACF08F300747DD7 /* BFCancellationToken.m */; };
-		8178F98E1BB0F87700AD289D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8E9C3CEC17DE9DE000427E62 /* Foundation.framework */; };
-		8178F9901BB0F87700AD289D /* BFCancellationTokenRegistration.h in Headers */ = {isa = PBXBuildFile; fileRef = 7CA39C901ADE715400DD78CC /* BFCancellationTokenRegistration.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		8178F9911BB0F87700AD289D /* BFTask.h in Headers */ = {isa = PBXBuildFile; fileRef = 8103FA5019900A84000BAE3F /* BFTask.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		8178F9921BB0F87700AD289D /* BFCancellationTokenSource.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C60AEC11ACF093D00747DD7 /* BFCancellationTokenSource.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		8178F9931BB0F87700AD289D /* BFExecutor.h in Headers */ = {isa = PBXBuildFile; fileRef = 8103FA4E19900A84000BAE3F /* BFExecutor.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		8178F9951BB0F87700AD289D /* BFTaskCompletionSource.h in Headers */ = {isa = PBXBuildFile; fileRef = 8103FA5219900A84000BAE3F /* BFTaskCompletionSource.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		8178F9971BB0F87700AD289D /* Bolts.h in Headers */ = {isa = PBXBuildFile; fileRef = 8103FA5419900A84000BAE3F /* Bolts.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		8178F9981BB0F87700AD289D /* BFCancellationToken.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C60AEBD1ACF08F300747DD7 /* BFCancellationToken.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		818ADC6A1BE1A7FB00C8006C /* Bolts.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F5AFCA021BA752750076E927 /* Bolts.framework */; };
 		818ADC6B1BE1A80300C8006C /* Bolts.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 81ED946E1BE14B5200795F05 /* Bolts.framework */; };
-		818ADC6C1BE1A80F00C8006C /* Bolts.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 81ED94291BE147CF00795F05 /* Bolts.framework */; };
 		819573DB1C2B8ECB00BFCA39 /* BFTaskCompletionSource.m in Sources */ = {isa = PBXBuildFile; fileRef = 8103FA5319900A84000BAE3F /* BFTaskCompletionSource.m */; };
 		819573DC1C2B8ECB00BFCA39 /* BFTask.m in Sources */ = {isa = PBXBuildFile; fileRef = 8103FA5119900A84000BAE3F /* BFTask.m */; };
 		819573DD1C2B8ECB00BFCA39 /* Bolts.m in Sources */ = {isa = PBXBuildFile; fileRef = 8103FA5519900A84000BAE3F /* Bolts.m */; };
@@ -103,39 +83,9 @@
 		81E94D631C2B8BF200A6291E /* BFTaskCompletionSource.h in Headers */ = {isa = PBXBuildFile; fileRef = 8103FA5219900A84000BAE3F /* BFTaskCompletionSource.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		81E94D651C2B8BF200A6291E /* Bolts.h in Headers */ = {isa = PBXBuildFile; fileRef = 8103FA5419900A84000BAE3F /* Bolts.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		81E94D661C2B8BF200A6291E /* BFCancellationToken.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C60AEBD1ACF08F300747DD7 /* BFCancellationToken.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		81ED94131BE147CF00795F05 /* BFTaskCompletionSource.m in Sources */ = {isa = PBXBuildFile; fileRef = 8103FA5319900A84000BAE3F /* BFTaskCompletionSource.m */; };
-		81ED94141BE147CF00795F05 /* BFTask.m in Sources */ = {isa = PBXBuildFile; fileRef = 8103FA5119900A84000BAE3F /* BFTask.m */; };
-		81ED94151BE147CF00795F05 /* Bolts.m in Sources */ = {isa = PBXBuildFile; fileRef = 8103FA5519900A84000BAE3F /* Bolts.m */; };
-		81ED94161BE147CF00795F05 /* BFCancellationTokenRegistration.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CA39C911ADE715400DD78CC /* BFCancellationTokenRegistration.m */; };
-		81ED94171BE147CF00795F05 /* BFCancellationTokenSource.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C60AEC21ACF093D00747DD7 /* BFCancellationTokenSource.m */; };
-		81ED94181BE147CF00795F05 /* BFExecutor.m in Sources */ = {isa = PBXBuildFile; fileRef = 8103FA4F19900A84000BAE3F /* BFExecutor.m */; };
-		81ED94191BE147CF00795F05 /* BFCancellationToken.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C60AEBE1ACF08F300747DD7 /* BFCancellationToken.m */; };
-		81ED941B1BE147CF00795F05 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8E9C3CEC17DE9DE000427E62 /* Foundation.framework */; };
-		81ED941D1BE147CF00795F05 /* BFCancellationTokenRegistration.h in Headers */ = {isa = PBXBuildFile; fileRef = 7CA39C901ADE715400DD78CC /* BFCancellationTokenRegistration.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		81ED941E1BE147CF00795F05 /* BFTask.h in Headers */ = {isa = PBXBuildFile; fileRef = 8103FA5019900A84000BAE3F /* BFTask.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		81ED941F1BE147CF00795F05 /* BFCancellationTokenSource.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C60AEC11ACF093D00747DD7 /* BFCancellationTokenSource.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		81ED94201BE147CF00795F05 /* BFExecutor.h in Headers */ = {isa = PBXBuildFile; fileRef = 8103FA4E19900A84000BAE3F /* BFExecutor.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		81ED94221BE147CF00795F05 /* BFTaskCompletionSource.h in Headers */ = {isa = PBXBuildFile; fileRef = 8103FA5219900A84000BAE3F /* BFTaskCompletionSource.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		81ED94241BE147CF00795F05 /* Bolts.h in Headers */ = {isa = PBXBuildFile; fileRef = 8103FA5419900A84000BAE3F /* Bolts.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		81ED94251BE147CF00795F05 /* BFCancellationToken.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C60AEBD1ACF08F300747DD7 /* BFCancellationToken.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8E8C8EFB17F23E5F00E3F1C7 /* TaskTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E9C3D1C17DE9F6500427E62 /* TaskTests.m */; };
 		8E8C8F2917F241FF00E3F1C7 /* TaskTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E9C3D1C17DE9F6500427E62 /* TaskTests.m */; };
 		8EDDA63017E17DDC00655F8A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8E9C3CEC17DE9DE000427E62 /* Foundation.framework */; };
-		F5AFC9EC1BA752750076E927 /* BFTaskCompletionSource.m in Sources */ = {isa = PBXBuildFile; fileRef = 8103FA5319900A84000BAE3F /* BFTaskCompletionSource.m */; };
-		F5AFC9ED1BA752750076E927 /* BFTask.m in Sources */ = {isa = PBXBuildFile; fileRef = 8103FA5119900A84000BAE3F /* BFTask.m */; };
-		F5AFC9EE1BA752750076E927 /* Bolts.m in Sources */ = {isa = PBXBuildFile; fileRef = 8103FA5519900A84000BAE3F /* Bolts.m */; };
-		F5AFC9EF1BA752750076E927 /* BFCancellationTokenRegistration.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CA39C911ADE715400DD78CC /* BFCancellationTokenRegistration.m */; };
-		F5AFC9F01BA752750076E927 /* BFCancellationTokenSource.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C60AEC21ACF093D00747DD7 /* BFCancellationTokenSource.m */; };
-		F5AFC9F11BA752750076E927 /* BFExecutor.m in Sources */ = {isa = PBXBuildFile; fileRef = 8103FA4F19900A84000BAE3F /* BFExecutor.m */; };
-		F5AFC9F21BA752750076E927 /* BFCancellationToken.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C60AEBE1ACF08F300747DD7 /* BFCancellationToken.m */; };
-		F5AFC9F41BA752750076E927 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8E9C3CEC17DE9DE000427E62 /* Foundation.framework */; };
-		F5AFC9F61BA752750076E927 /* BFCancellationTokenRegistration.h in Headers */ = {isa = PBXBuildFile; fileRef = 7CA39C901ADE715400DD78CC /* BFCancellationTokenRegistration.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		F5AFC9F71BA752750076E927 /* BFTask.h in Headers */ = {isa = PBXBuildFile; fileRef = 8103FA5019900A84000BAE3F /* BFTask.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		F5AFC9F81BA752750076E927 /* BFCancellationTokenSource.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C60AEC11ACF093D00747DD7 /* BFCancellationTokenSource.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		F5AFC9F91BA752750076E927 /* BFExecutor.h in Headers */ = {isa = PBXBuildFile; fileRef = 8103FA4E19900A84000BAE3F /* BFExecutor.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		F5AFC9FB1BA752750076E927 /* BFTaskCompletionSource.h in Headers */ = {isa = PBXBuildFile; fileRef = 8103FA5219900A84000BAE3F /* BFTaskCompletionSource.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		F5AFC9FD1BA752750076E927 /* Bolts.h in Headers */ = {isa = PBXBuildFile; fileRef = 8103FA5419900A84000BAE3F /* Bolts.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		F5AFC9FE1BA752750076E927 /* BFCancellationToken.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C60AEBD1ACF08F300747DD7 /* BFCancellationToken.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F5AFCA081BA752770076E927 /* ExecutorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 81DC1A611B7A7F4000F491DC /* ExecutorTests.m */; };
 		F5AFCA0A1BA752770076E927 /* TaskTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E9C3D1C17DE9F6500427E62 /* TaskTests.m */; };
 		F5AFCA0B1BA752770076E927 /* CancellationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C60AEC51ACF19F900747DD7 /* CancellationTests.m */; };
@@ -148,20 +98,6 @@
 			proxyType = 1;
 			remoteGlobalIDString = 1EC3015F18CDAA8300D06D07;
 			remoteInfo = BoltsTestUI;
-		};
-		818ADC681BE1A7F000C8006C /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 8E9C3CE117DE9DE000427E62 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = F5AFC9EA1BA752750076E927;
-			remoteInfo = "Bolts-tvOS";
-		};
-		818ADC6D1BE1A81900C8006C /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 8E9C3CE117DE9DE000427E62 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 81ED94111BE147CF00795F05;
-			remoteInfo = "Bolts-iOS";
 		};
 		8E8C8F2417F241DA00E3F1C7 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -200,17 +136,13 @@
 		8103FA5519900A84000BAE3F /* Bolts.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Bolts.m; sourceTree = "<group>"; };
 		814916E11AD5D46600EE7C63 /* iOS.modulemap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.module-map"; name = iOS.modulemap; path = Resources/iOS.modulemap; sourceTree = "<group>"; };
 		8160B82B1DE6277200C6E285 /* BFGeneric.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BFGeneric.h; sourceTree = "<group>"; };
-		8178F99C1BB0F87700AD289D /* Bolts.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Bolts.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		819573F11C2B8ECB00BFCA39 /* Bolts.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Bolts.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		81AB8BB11D36D7BD00066F63 /* Version.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Version.xcconfig; sourceTree = "<group>"; };
 		81D0EE7C19AFA8260000AE75 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
 		81D646E31D2CA0E000690609 /* Bolts-iOS-Dynamic.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "Bolts-iOS-Dynamic.xcconfig"; sourceTree = "<group>"; };
-		81D646E41D2CA0E000690609 /* Bolts-iOS.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "Bolts-iOS.xcconfig"; sourceTree = "<group>"; };
 		81D646E51D2CA0E000690609 /* Bolts-macOS.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "Bolts-macOS.xcconfig"; sourceTree = "<group>"; };
 		81D646E61D2CA0E000690609 /* Bolts-tvOS-Dynamic.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "Bolts-tvOS-Dynamic.xcconfig"; sourceTree = "<group>"; };
-		81D646E71D2CA0E000690609 /* Bolts-tvOS.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "Bolts-tvOS.xcconfig"; sourceTree = "<group>"; };
 		81D646E81D2CA0E000690609 /* Bolts-watchOS-Dynamic.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "Bolts-watchOS-Dynamic.xcconfig"; sourceTree = "<group>"; };
-		81D646E91D2CA0E000690609 /* Bolts-watchOS.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "Bolts-watchOS.xcconfig"; sourceTree = "<group>"; };
 		81D646EA1D2CA0E000690609 /* BoltsTests-iOS.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "BoltsTests-iOS.xcconfig"; sourceTree = "<group>"; };
 		81D646EB1D2CA0E000690609 /* BoltsTests-OSX.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "BoltsTests-OSX.xcconfig"; sourceTree = "<group>"; };
 		81D646EC1D2CA0E000690609 /* BoltsTests-tvOS.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "BoltsTests-tvOS.xcconfig"; sourceTree = "<group>"; };
@@ -221,7 +153,6 @@
 		81D646F51D2CA0E000690609 /* Application.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Application.xcconfig; sourceTree = "<group>"; };
 		81D646F61D2CA0E000690609 /* DynamicFramework.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = DynamicFramework.xcconfig; sourceTree = "<group>"; };
 		81D646F71D2CA0E000690609 /* LogicTests.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = LogicTests.xcconfig; sourceTree = "<group>"; };
-		81D646F81D2CA0E000690609 /* StaticFramework.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = StaticFramework.xcconfig; sourceTree = "<group>"; };
 		81D646FA1D2CA0E000690609 /* Debug.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Debug.xcconfig; sourceTree = "<group>"; };
 		81D646FB1D2CA0E000690609 /* Release.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Release.xcconfig; sourceTree = "<group>"; };
 		81D646FC1D2CA0E000690609 /* Warnings.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Warnings.xcconfig; sourceTree = "<group>"; };
@@ -229,7 +160,6 @@
 		81D647431D2CA52300690609 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Info.plist; path = Resources/Info.plist; sourceTree = "<group>"; };
 		81DC1A611B7A7F4000F491DC /* ExecutorTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ExecutorTests.m; sourceTree = "<group>"; };
 		81E94D6A1C2B8BF200A6291E /* Bolts.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Bolts.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		81ED94291BE147CF00795F05 /* Bolts.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Bolts.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		81ED946E1BE14B5200795F05 /* Bolts.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Bolts.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8550FD2E18EE1B7A00976B4B /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		8E8C8ED217F23C3B00E3F1C7 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
@@ -241,7 +171,6 @@
 		8E9C3CEC17DE9DE000427E62 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		8E9C3CFB17DE9DE000427E62 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
 		8E9C3D1C17DE9F6500427E62 /* TaskTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TaskTests.m; sourceTree = "<group>"; };
-		F5AFCA021BA752750076E927 /* Bolts.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Bolts.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F5AFCA131BA752770076E927 /* BoltsTests-tvOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "BoltsTests-tvOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -264,14 +193,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		8178F98D1BB0F87700AD289D /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				8178F98E1BB0F87700AD289D /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		819573E21C2B8ECB00BFCA39 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -288,19 +209,10 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		81ED941A1BE147CF00795F05 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				81ED941B1BE147CF00795F05 /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		8E8C8EE617F23D1D00E3F1C7 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				818ADC6C1BE1A80F00C8006C /* Bolts.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -320,19 +232,10 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F5AFC9F31BA752750076E927 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				F5AFC9F41BA752750076E927 /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		F5AFCA0C1BA752770076E927 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				818ADC6A1BE1A7FB00C8006C /* Bolts.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -386,12 +289,9 @@
 		81D646E21D2CA0E000690609 /* Configurations */ = {
 			isa = PBXGroup;
 			children = (
-				81D646E41D2CA0E000690609 /* Bolts-iOS.xcconfig */,
 				81D646E31D2CA0E000690609 /* Bolts-iOS-Dynamic.xcconfig */,
 				81D646E51D2CA0E000690609 /* Bolts-macOS.xcconfig */,
-				81D646E71D2CA0E000690609 /* Bolts-tvOS.xcconfig */,
 				81D646E61D2CA0E000690609 /* Bolts-tvOS-Dynamic.xcconfig */,
-				81D646E91D2CA0E000690609 /* Bolts-watchOS.xcconfig */,
 				81D646E81D2CA0E000690609 /* Bolts-watchOS-Dynamic.xcconfig */,
 				81D646EA1D2CA0E000690609 /* BoltsTests-iOS.xcconfig */,
 				81D646EB1D2CA0E000690609 /* BoltsTests-OSX.xcconfig */,
@@ -431,7 +331,6 @@
 				81D646F51D2CA0E000690609 /* Application.xcconfig */,
 				81D646F61D2CA0E000690609 /* DynamicFramework.xcconfig */,
 				81D646F71D2CA0E000690609 /* LogicTests.xcconfig */,
-				81D646F81D2CA0E000690609 /* StaticFramework.xcconfig */,
 			);
 			path = Product;
 			sourceTree = "<group>";
@@ -486,10 +385,7 @@
 				8E8C8EE917F23D1D00E3F1C7 /* BoltsTests-iOS.xctest */,
 				8E8C8F1917F241DA00E3F1C7 /* BoltsTests-OSX.xctest */,
 				1EC3016018CDAA8400D06D07 /* BoltsTestUI.app */,
-				F5AFCA021BA752750076E927 /* Bolts.framework */,
 				F5AFCA131BA752770076E927 /* BoltsTests-tvOS.xctest */,
-				8178F99C1BB0F87700AD289D /* Bolts.framework */,
-				81ED94291BE147CF00795F05 /* Bolts.framework */,
 				81ED946E1BE14B5200795F05 /* Bolts.framework */,
 				1D5D7DD31BE3CE8200FD67C7 /* Bolts.framework */,
 				81E94D6A1C2B8BF200A6291E /* Bolts.framework */,
@@ -547,21 +443,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		8178F98F1BB0F87700AD289D /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				8178F9901BB0F87700AD289D /* BFCancellationTokenRegistration.h in Headers */,
-				8178F9911BB0F87700AD289D /* BFTask.h in Headers */,
-				8178F9921BB0F87700AD289D /* BFCancellationTokenSource.h in Headers */,
-				8178F9931BB0F87700AD289D /* BFExecutor.h in Headers */,
-				8178F9951BB0F87700AD289D /* BFTaskCompletionSource.h in Headers */,
-				8178F9971BB0F87700AD289D /* Bolts.h in Headers */,
-				8160B8311DE6277200C6E285 /* BFGeneric.h in Headers */,
-				8178F9981BB0F87700AD289D /* BFCancellationToken.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		819573E41C2B8ECB00BFCA39 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
@@ -607,36 +488,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		81ED941C1BE147CF00795F05 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				8160B82C1DE6277200C6E285 /* BFGeneric.h in Headers */,
-				81ED941D1BE147CF00795F05 /* BFCancellationTokenRegistration.h in Headers */,
-				81ED941E1BE147CF00795F05 /* BFTask.h in Headers */,
-				81ED941F1BE147CF00795F05 /* BFCancellationTokenSource.h in Headers */,
-				81ED94201BE147CF00795F05 /* BFExecutor.h in Headers */,
-				81ED94221BE147CF00795F05 /* BFTaskCompletionSource.h in Headers */,
-				81ED94241BE147CF00795F05 /* Bolts.h in Headers */,
-				81ED94251BE147CF00795F05 /* BFCancellationToken.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		F5AFC9F51BA752750076E927 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				F5AFC9F61BA752750076E927 /* BFCancellationTokenRegistration.h in Headers */,
-				F5AFC9F71BA752750076E927 /* BFTask.h in Headers */,
-				F5AFC9F81BA752750076E927 /* BFCancellationTokenSource.h in Headers */,
-				F5AFC9F91BA752750076E927 /* BFExecutor.h in Headers */,
-				F5AFC9FB1BA752750076E927 /* BFTaskCompletionSource.h in Headers */,
-				F5AFC9FD1BA752750076E927 /* Bolts.h in Headers */,
-				8160B82F1DE6277200C6E285 /* BFGeneric.h in Headers */,
-				F5AFC9FE1BA752750076E927 /* BFCancellationToken.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
@@ -674,23 +525,6 @@
 			productReference = 1EC3016018CDAA8400D06D07 /* BoltsTestUI.app */;
 			productType = "com.apple.product-type.application";
 		};
-		8178F9841BB0F87700AD289D /* Bolts-watchOS */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 8178F9991BB0F87700AD289D /* Build configuration list for PBXNativeTarget "Bolts-watchOS" */;
-			buildPhases = (
-				8178F9851BB0F87700AD289D /* Sources */,
-				8178F98D1BB0F87700AD289D /* Frameworks */,
-				8178F98F1BB0F87700AD289D /* Headers */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = "Bolts-watchOS";
-			productName = Bolts;
-			productReference = 8178F99C1BB0F87700AD289D /* Bolts.framework */;
-			productType = "com.apple.product-type.framework";
-		};
 		819573D91C2B8ECB00BFCA39 /* Bolts-watchOS-Dynamic */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 819573EE1C2B8ECB00BFCA39 /* Build configuration list for PBXNativeTarget "Bolts-watchOS-Dynamic" */;
@@ -725,23 +559,6 @@
 			productReference = 81E94D6A1C2B8BF200A6291E /* Bolts.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		81ED94111BE147CF00795F05 /* Bolts-iOS */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 81ED94261BE147CF00795F05 /* Build configuration list for PBXNativeTarget "Bolts-iOS" */;
-			buildPhases = (
-				81ED94121BE147CF00795F05 /* Sources */,
-				81ED941A1BE147CF00795F05 /* Frameworks */,
-				81ED941C1BE147CF00795F05 /* Headers */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = "Bolts-iOS";
-			productName = Bolts;
-			productReference = 81ED94291BE147CF00795F05 /* Bolts.framework */;
-			productType = "com.apple.product-type.framework";
-		};
 		8E8C8EE817F23D1D00E3F1C7 /* BoltsTests-iOS */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 8E8C8EF817F23D1D00E3F1C7 /* Build configuration list for PBXNativeTarget "BoltsTests-iOS" */;
@@ -753,7 +570,6 @@
 			buildRules = (
 			);
 			dependencies = (
-				818ADC6E1BE1A81900C8006C /* PBXTargetDependency */,
 				1E617A8A18DA0CA90056A4E2 /* PBXTargetDependency */,
 			);
 			name = "BoltsTests-iOS";
@@ -796,23 +612,6 @@
 			productReference = 81ED946E1BE14B5200795F05 /* Bolts.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		F5AFC9EA1BA752750076E927 /* Bolts-tvOS */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = F5AFC9FF1BA752750076E927 /* Build configuration list for PBXNativeTarget "Bolts-tvOS" */;
-			buildPhases = (
-				F5AFC9EB1BA752750076E927 /* Sources */,
-				F5AFC9F31BA752750076E927 /* Frameworks */,
-				F5AFC9F51BA752750076E927 /* Headers */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = "Bolts-tvOS";
-			productName = Bolts;
-			productReference = F5AFCA021BA752750076E927 /* Bolts.framework */;
-			productType = "com.apple.product-type.framework";
-		};
 		F5AFCA041BA752770076E927 /* BoltsTests-tvOS */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = F5AFCA101BA752770076E927 /* Build configuration list for PBXNativeTarget "BoltsTests-tvOS" */;
@@ -824,7 +623,6 @@
 			buildRules = (
 			);
 			dependencies = (
-				818ADC691BE1A7F000C8006C /* PBXTargetDependency */,
 			);
 			name = "BoltsTests-tvOS";
 			productName = MacBoltsTests;
@@ -858,12 +656,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				81ED94111BE147CF00795F05 /* Bolts-iOS */,
 				1D5D7DA61BE3CE8200FD67C7 /* Bolts-iOS-Dynamic */,
 				8EDDA62817E17DDC00655F8A /* Bolts-macOS */,
-				F5AFC9EA1BA752750076E927 /* Bolts-tvOS */,
 				81E94D521C2B8BF200A6291E /* Bolts-tvOS-Dynamic */,
-				8178F9841BB0F87700AD289D /* Bolts-watchOS */,
 				819573D91C2B8ECB00BFCA39 /* Bolts-watchOS-Dynamic */,
 				8E8C8EE817F23D1D00E3F1C7 /* BoltsTests-iOS */,
 				8E8C8F1817F241DA00E3F1C7 /* BoltsTests-macOS */,
@@ -931,20 +726,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		8178F9851BB0F87700AD289D /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				8178F9861BB0F87700AD289D /* BFTaskCompletionSource.m in Sources */,
-				8178F9871BB0F87700AD289D /* BFTask.m in Sources */,
-				8178F9881BB0F87700AD289D /* Bolts.m in Sources */,
-				8178F9891BB0F87700AD289D /* BFCancellationTokenRegistration.m in Sources */,
-				8178F98A1BB0F87700AD289D /* BFCancellationTokenSource.m in Sources */,
-				8178F98B1BB0F87700AD289D /* BFExecutor.m in Sources */,
-				8178F98C1BB0F87700AD289D /* BFCancellationToken.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		819573DA1C2B8ECB00BFCA39 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -970,20 +751,6 @@
 				81E94D581C2B8BF200A6291E /* BFCancellationTokenSource.m in Sources */,
 				81E94D591C2B8BF200A6291E /* BFExecutor.m in Sources */,
 				81E94D5A1C2B8BF200A6291E /* BFCancellationToken.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		81ED94121BE147CF00795F05 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				81ED94131BE147CF00795F05 /* BFTaskCompletionSource.m in Sources */,
-				81ED94141BE147CF00795F05 /* BFTask.m in Sources */,
-				81ED94151BE147CF00795F05 /* Bolts.m in Sources */,
-				81ED94161BE147CF00795F05 /* BFCancellationTokenRegistration.m in Sources */,
-				81ED94171BE147CF00795F05 /* BFCancellationTokenSource.m in Sources */,
-				81ED94181BE147CF00795F05 /* BFExecutor.m in Sources */,
-				81ED94191BE147CF00795F05 /* BFCancellationToken.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1021,20 +788,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F5AFC9EB1BA752750076E927 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				F5AFC9EC1BA752750076E927 /* BFTaskCompletionSource.m in Sources */,
-				F5AFC9ED1BA752750076E927 /* BFTask.m in Sources */,
-				F5AFC9EE1BA752750076E927 /* Bolts.m in Sources */,
-				F5AFC9EF1BA752750076E927 /* BFCancellationTokenRegistration.m in Sources */,
-				F5AFC9F01BA752750076E927 /* BFCancellationTokenSource.m in Sources */,
-				F5AFC9F11BA752750076E927 /* BFExecutor.m in Sources */,
-				F5AFC9F21BA752750076E927 /* BFCancellationToken.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		F5AFCA071BA752770076E927 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -1052,16 +805,6 @@
 			isa = PBXTargetDependency;
 			target = 1EC3015F18CDAA8300D06D07 /* BoltsTestUI */;
 			targetProxy = 1E617A8918DA0CA90056A4E2 /* PBXContainerItemProxy */;
-		};
-		818ADC691BE1A7F000C8006C /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = F5AFC9EA1BA752750076E927 /* Bolts-tvOS */;
-			targetProxy = 818ADC681BE1A7F000C8006C /* PBXContainerItemProxy */;
-		};
-		818ADC6E1BE1A81900C8006C /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 81ED94111BE147CF00795F05 /* Bolts-iOS */;
-			targetProxy = 818ADC6D1BE1A81900C8006C /* PBXContainerItemProxy */;
 		};
 		8E8C8F2517F241DA00E3F1C7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
@@ -1165,20 +908,6 @@
 			};
 			name = Release;
 		};
-		8178F99A1BB0F87700AD289D /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 81D646E91D2CA0E000690609 /* Bolts-watchOS.xcconfig */;
-			buildSettings = {
-			};
-			name = Debug;
-		};
-		8178F99B1BB0F87700AD289D /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 81D646E91D2CA0E000690609 /* Bolts-watchOS.xcconfig */;
-			buildSettings = {
-			};
-			name = Release;
-		};
 		819573EF1C2B8ECB00BFCA39 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 81D646E81D2CA0E000690609 /* Bolts-watchOS-Dynamic.xcconfig */;
@@ -1203,20 +932,6 @@
 		81E94D691C2B8BF200A6291E /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 81D646E61D2CA0E000690609 /* Bolts-tvOS-Dynamic.xcconfig */;
-			buildSettings = {
-			};
-			name = Release;
-		};
-		81ED94271BE147CF00795F05 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 81D646E41D2CA0E000690609 /* Bolts-iOS.xcconfig */;
-			buildSettings = {
-			};
-			name = Debug;
-		};
-		81ED94281BE147CF00795F05 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 81D646E41D2CA0E000690609 /* Bolts-iOS.xcconfig */;
 			buildSettings = {
 			};
 			name = Release;
@@ -1277,20 +992,6 @@
 			};
 			name = Release;
 		};
-		F5AFCA001BA752750076E927 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 81D646E71D2CA0E000690609 /* Bolts-tvOS.xcconfig */;
-			buildSettings = {
-			};
-			name = Debug;
-		};
-		F5AFCA011BA752750076E927 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 81D646E71D2CA0E000690609 /* Bolts-tvOS.xcconfig */;
-			buildSettings = {
-			};
-			name = Release;
-		};
 		F5AFCA111BA752770076E927 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 81D646EC1D2CA0E000690609 /* BoltsTests-tvOS.xcconfig */;
@@ -1326,15 +1027,6 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8178F9991BB0F87700AD289D /* Build configuration list for PBXNativeTarget "Bolts-watchOS" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				8178F99A1BB0F87700AD289D /* Debug */,
-				8178F99B1BB0F87700AD289D /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		819573EE1C2B8ECB00BFCA39 /* Build configuration list for PBXNativeTarget "Bolts-watchOS-Dynamic" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -1349,15 +1041,6 @@
 			buildConfigurations = (
 				81E94D681C2B8BF200A6291E /* Debug */,
 				81E94D691C2B8BF200A6291E /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		81ED94261BE147CF00795F05 /* Build configuration list for PBXNativeTarget "Bolts-iOS" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				81ED94271BE147CF00795F05 /* Debug */,
-				81ED94281BE147CF00795F05 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -1394,15 +1077,6 @@
 			buildConfigurations = (
 				8EDDA63317E17DDC00655F8A /* Debug */,
 				8EDDA63417E17DDC00655F8A /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		F5AFC9FF1BA752750076E927 /* Build configuration list for PBXNativeTarget "Bolts-tvOS" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				F5AFCA001BA752750076E927 /* Debug */,
-				F5AFCA011BA752750076E927 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
